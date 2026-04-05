@@ -2,4 +2,4 @@ target/
 .idea/
 .vscode/
 *.log
-.scripts/
+scripts/
